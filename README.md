@@ -22,7 +22,7 @@ An interactive compound visualization analyzing top 50 movies from 2016, explori
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/movie-visualization.git
+   git clone [https://github.com/yourusername/movie-visualization.git](https://github.com/KellyLuMinrong/data-visualization/blob/main/data_visualization.ipynb)
    cd movie-visualization
    ```
 
@@ -36,9 +36,9 @@ An interactive compound visualization analyzing top 50 movies from 2016, explori
 1. Place datasets in `data/` directory
 2. Run Jupyter notebook:
    ```bash
-   jupyter notebook ECON7910_Assignment4.ipynb
+   jupyter notebook 
    ```
-3. Output will be saved as `ECON7910_Assignment4_Result.html`
+3. Output will be saved as `C:\Users\kellyloo\Downloads\data_visualization.ipynb`
 
 ## Visualization Details
 
@@ -63,9 +63,7 @@ An interactive compound visualization analyzing top 50 movies from 2016, explori
 ├── data/
 │   ├── top50_2016.csv
 │   └── castGender.csv
-├── ECON7910_Assignment4.ipynb
-├── ECON7910_Assignment4_Result.html
-└── requirements.txt
+├── C:\Users\kellyloo\Downloads\data_visualization.ipynb
 ```
 
 ## Contributing
